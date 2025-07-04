@@ -1,0 +1,29 @@
+@media (max-width: 360px) {
+  body {
+    font-size: 14px;
+  }
+
+  .hero-content h1 {
+    font-size: 1.3rem;
+  }
+
+  .portfolio-heading,
+  .exits-heading,
+  .contact-form-heading {
+    font-size: 1.3rem;
+  }
+
+  .card-button,
+  .hero-button {
+    padding: 0.6rem 1rem;
+    font-size: 0.9rem;
+  }
+
+  .mission-title {
+    font-size: 1.2rem;
+  }
+
+  .logo {
+    height: 60px;
+  }
+}
