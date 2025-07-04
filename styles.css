@@ -61,7 +61,7 @@ header {
 }
 
 .hero-section {
-  background-image: url('/pictures/hero.avif');
+  background-image: url('pictures\hero.avif');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
