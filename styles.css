@@ -61,7 +61,7 @@ header {
 }
 
 .hero-section {
-  background-image: url('pictures\\shero.png');
+  background-image: url('/pictures/shero.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
