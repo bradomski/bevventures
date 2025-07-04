@@ -60,20 +60,6 @@ header {
   color: #e76f51;
 }
 
-.hero-section {
-  background-image: url('/pictures/shero.png');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 100vh;
-  position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  text-align: center;
-  padding: 2rem;
-}
 
 .overlay {
   position: absolute;
